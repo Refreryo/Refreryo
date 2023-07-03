@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Refreryo
+- 👀 I’m interested in many things :)
+- 🌱 I’m currently learning Javascript, Java and some more
+- 📫 How to reach me via Discord: refreryo or Refreryo#5556
