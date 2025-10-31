@@ -2,10 +2,6 @@
 
 <img src="https://github.com/Refreryo/Refreryo/blob/main/resources/banner.png" alt="refreryo">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/refreryo/count.svg" />
-</p>
 
 ## About me 🦖
 
